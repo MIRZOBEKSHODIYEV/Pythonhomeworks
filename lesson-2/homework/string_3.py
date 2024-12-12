@@ -1,0 +1,5 @@
+user=str(input("Enter ytour user name: "))
+lengt=len(user)
+print(user)
+print(f"your names have {lengt} element")
+print(user.lower())
