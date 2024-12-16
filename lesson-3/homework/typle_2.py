@@ -1,0 +1,12 @@
+tuple_2=(1, 3, 5, 7.5, 9 , 6, 4.3, 3)
+a_1=float(tuple_2[0])
+a_2=float(tuple_2[1])
+a_3=float(tuple_2[2])
+a_4=float(tuple_2[3])
+a_5=float(tuple_2[4])
+a_6=float(tuple_2[5])
+a_7=float(tuple_2[6])
+a_8=float(tuple_2[7])
+
+maximum=max(a_1, a_2, a_3, a_4, a_5, a_6, a_7, a_8)
+print(maximum)
